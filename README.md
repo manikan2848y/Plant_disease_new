@@ -117,9 +117,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, reach out to:
 
-- **Name:** Manikan
-- **GitHub:** [@manikan2848y](https://github.com/manikan2848y)
-- **Email:** [Your Email Address]
+- **Name:** [Manikanta]
+- **GitHub:** [https://github.com/manikan2848y]
+- **Email:** [manikantabalaji14@gmail.com]
 
 ---
 
